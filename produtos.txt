@@ -1,0 +1,42 @@
+[
+    Product(
+      id: 'p1',
+      title: 'iPhone 13',
+      description: 'iPhone 13 - Verde Militar de 256GB!',
+      price: 5.250,
+      imageUrl:
+          'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-2-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1654893618268',
+    ),
+    Product(
+      id: 'p2',
+      title: 'iPhone 14',
+      description: 'iPhone 14 - Amarelo de 256GB!',
+      price: 7.100,
+      imageUrl:
+          'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-model-unselect-gallery-2-202303?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1676930656159',
+    ),
+    Product(
+      id: 'p3',
+      title: 'iPhone 14',
+      description: 'iPhone 14 - Lilás de 256GB!',
+      price: 7.100,
+      imageUrl:
+          'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661027205808',
+    ),
+    Product(
+      id: 'p4',
+      title: 'iPhone 14',
+      description: 'iPhone 14 - Vermelho de 256GB!',
+      price: 7.100,
+      imageUrl:
+          'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-storage-select-202209-6-1inch-product-red?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1660691573456',
+    ),
+    Product(
+      id: 'p5',
+      title: 'Xiaomi 12',
+      description: 'Xiaomi 12 - Preto de 256GB!',
+      price: 8.739,
+      imageUrl:
+          'https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/38/96/3896_smartphone-xiaomi-12-8gb-256gb-c00334_z4_638009981517223186.png',
+    ),
+  ],
